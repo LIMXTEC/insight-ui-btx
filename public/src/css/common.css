@@ -613,12 +613,6 @@ margin-left: 0;
   float: left;
   height: 45px;
 }
-#powered a.btx {
-  background-image: url('../img/Bitcore-logo-135x135.png');
-  background-size: 90px;
-  width: 30%;
-}
-
 #powered a.bitcore {
   background-image: url('../img/logo.svg');
   background-size: 80px;
