@@ -4,7 +4,7 @@
   "version": "0.4.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/BTXinsight/insight-ui-btx.git"
+    "url": "git://github.com/LIMXTEC/insight-ui-btx.git"
   },
   "contributors": [
     {
@@ -37,9 +37,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/BTXinsight/insight-ui-btx/issues"
+    "url": "https://github.com/LIMXTEC/insight-ui-btx/issues"
   },
-  "homepage": "https://github.com/BTXinsight/insight-ui-btx",
+  "homepage": "https://github.com/LIMXTEC/insight-ui-btx",
   "license": "MIT",
   "keywords": [
     "insight",

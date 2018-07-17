@@ -1,6 +1,6 @@
 # Insight UI
 
-A BitCore blockchain explorer web application service for [BitCore Bitcore Node](https://github.com/BTXinsight/bitcore-node-btx) using the [BitCore Insight API](https://github.com/BTXinsight/insight-api-btx).
+A BitCore blockchain explorer web application service for [BitCore Bitcore Node](https://github.com/LIMXTEC/bitcore-node-btx) using the [BitCore Insight API](https://github.com/LIMXTEC/insight-api-btx).
 
 ## Quick Start
 
@@ -11,7 +11,7 @@ Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-git clone https://github.com/BTXinsight/bitcore-node-btx.git
+git clone https://github.com/LIMXTEC/bitcore-node-btx.git
 cd bitcore-node-btx
 npm install
 bitcore-node create mynode
@@ -72,11 +72,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/BTXinsight/insight-api-btx) configuration and end-points, go to [Insight API GitHub repository](https://github.com/BTXinsight/insight-api-btx).
+For more details about the [Insight API](https://github.com/LIMXTEC/insight-api-btx) configuration and end-points, go to [Insight API GitHub repository](https://github.com/LIMXTEC/insight-api-btx).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/BTXinsight/insight-ui-btx).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/LIMXTEC/insight-ui-btx).
 
 
 ## License
